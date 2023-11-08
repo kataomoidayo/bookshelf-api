@@ -1,5 +1,5 @@
 # bookshelf-api
 
-Latihan Back-end　Hapi　<br />
-Hapiのバックエンド練習　<br />
-Hapi Back-end exercise　<br />
+Tugas Back-end Hapi　<br />
+Hapi バックエンド課題　<br />
+Hapi Back-end submission　<br />
